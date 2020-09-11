@@ -9,6 +9,8 @@ navbar:
       href: programma.html
     - text: "Inspiratie"
       href: inspiratie.html
+    - text: "Spreker"
+      href: about.html
 output:
   html_document:
     includes:
