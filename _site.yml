@@ -1,0 +1,15 @@
+name: "Workshop ML"
+output_dir: "."
+navbar:
+  title: "<img id=\"logo\" style=\"width: 90px; margin-top: -5px\" src=\"media/rotary.svg\" />"
+  left:
+    - text: "Start"
+      href: index.html
+    - text: "Programma"
+      href: programma.html
+    - text: "Inspiratie"
+      href: inspiratie.html
+output:
+  html_document:
+    includes:
+      theme: spacelab
