@@ -19,7 +19,7 @@ title: "Masterclass Artificial Intelligence"
 <div class="lead">Je hoort al jaren fantastische verhalen over Artificial Intelligence. Nu lijkt er echt iets aan de hand te zijn. Wat is er veranderd?</div>
 
 <div class="p">
-Op donderdagavond 24 september vertelt <a href="Data Analytics & Machine Learning" target="_blank">Witek ten Hove</a> - docent Big Data & Web Technologies aan de HAN - wat de stand der technologie op dit moment is en hoe je zelf met AI aan de slag kunt gaan.</div>
+Op donderdagavond 24 september vertelt <a href="https://www.linkedin.com/in/witektenhove/" target="_blank">Witek ten Hove</a> - docent Big Data & Web Technologies aan de HAN - wat de stand der technologie op dit moment is en hoe je zelf met AI aan de slag kunt gaan.</div>
   
 </div>
 
