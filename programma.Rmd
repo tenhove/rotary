@@ -15,4 +15,4 @@ knitr::kable(data)
 
 ## Voorbereiding
 
-Het <a href="https://teachablemachine.withgoogle.com/">systeem</a> waarmee we gaan werken is volledig browser-based. Het is dus wel handig om een laptop mee te nemen waarop Chrome is geïnstalleerd. Zorg voor de zekerheid dat je een eigen internettoegang bij je hebt via de hotspot van je telefoon.
+Het <a href="https://teachablemachine.withgoogle.com/">systeem</a> waarmee we gaan werken is volledig browser-based. Het is dus handig om een laptop met webcam mee te nemen waarop Chrome is geïnstalleerd. Zorg voor de zekerheid dat je een eigen internettoegang bij je hebt via de hotspot van je telefoon.

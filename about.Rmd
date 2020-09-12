@@ -6,7 +6,7 @@ title: "Witek ten Hove"
 
 <div class="lead">
 Witek ten Hove is hoofddocent en onderzoeker bij de Hogeschool van Arnhem en Nijmegen. 
-Bij de opleiding Bedrijfskunde is hij o.a. verantwoordelijk voor de kennisgebieden Data Analytics en Web Technologies. 
+Voor de opleiding Bedrijfskunde verzorgd hij onderwijs op het gebied van Data en Web. 
 Vanuit het Lectoraat Smart Business doet hij onderzoek naar innovaties m.b.t. Smart Technologies. 
 </div>
 <p>
