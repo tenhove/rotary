@@ -5,8 +5,8 @@ title: "Programma"
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(DT)
 
-Tijd <- c("18:00u", "18:15u", "18:30u", "18:45u", "19:00u")
-Activiteit <- c("Introductie AI", "Uitleg systeem", "AI Playground", "Discussie", "Einde")
+Tijd <- c("18:00u","18:30u","19:00u", "19:15u", "19:30u", "19:45u", "20:00u")
+Activiteit <- c("Inloop","Aan tafel","Introductie AI", "Uitleg systeem", "AI Playground", "Discussie", "Einde")
 
 data = data.frame(Tijd, Activiteit)
 knitr::kable(data)
